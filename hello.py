@@ -3,4 +3,4 @@ print("yayayayayayaya")
 
 for _ in range(100):
     print('Quok')
-    print("Quok")
+	print('bambinoQuok')
